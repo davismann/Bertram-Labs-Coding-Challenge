@@ -1,7 +1,7 @@
 Bertram Labs Coding Challenge
-Language: C++
-Interface: CLI
-Author: Davis Mann
+- Language: C++
+- Interface: CLI
+- Author: Davis Mann
 
 Compile Instructions:
 - Type into command line: g++ -std=c++17 main.cpp
